@@ -1,6 +1,6 @@
 import React from "react";
 import play from "./play.svg";
-import "./Dictionary.css";
+import "./Phonetics.css";
 
 export default function Phonetics(props) {
     let audio = new Audio(props.phonetics.audio)
@@ -12,10 +12,10 @@ export default function Phonetics(props) {
     return (
       <div className="Phonetics">
         <span onClick={playSound}>
-          <img src={play} /> Listen
-        </span>
-        <br />
+          <img src={play} alt="" />
+        </span>{" "}
         {props.phonetics.text}
+        
       </div>
     );
 }

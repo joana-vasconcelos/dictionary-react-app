@@ -1,0 +1,12 @@
+.Phonetics img {
+  width: 25px;
+}
+
+.Phonetics img:hover {
+  cursor: pointer;
+}
+
+.Phonetics {
+  font-size: 16px;
+  color: black;
+}
