@@ -1,5 +1,5 @@
 import React from "react";
-import play from "./play.svg";
+import play from "./play.png";
 import "./Phonetics.css";
 
 export default function Phonetics(props) {

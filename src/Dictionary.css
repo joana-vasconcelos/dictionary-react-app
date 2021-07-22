@@ -33,7 +33,7 @@
   border-radius: 3px;
   width: 80px;
   color: #9a7b4f;
-  background: #2c1503;
+  background: #632a0d;
   display: inline-block;
   border: 2px solid #2c1503;
   font-weight: 600;
@@ -46,7 +46,7 @@
 .Dictionary .submit:hover {
    color: #2c1503;
   background: #9a7b4f; 
-  border: 2px solid #2c1503;
+  border: 2px solid #632a0d;
 }
 
 
