@@ -11,22 +11,32 @@
 }
 
 .App-footer {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
   max-width: 400px;
   display: block;
   margin: 0px auto;
   padding-bottom: 25px;
   color: rgb(236, 222, 195);
-  
+}
+
+a {
+  color: #9a7b4f;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: peru;
+  font-weight: bold;
 }
 
 header .quote {
   font-size: 18px;
   font-weight: 600;
- 
+
   margin: 20px 0 5px;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: "Nothing You Could Do", cursive;
 }
 
 header .quote-author {
@@ -34,14 +44,13 @@ header .quote-author {
   font-size: 13px;
   font-weight: 600;
   text-align: right;
-  margin:0;
-  font-family: 'Nothing You Could Do', cursive;
-  
+  margin: 0;
+  font-family: "Nothing You Could Do", cursive;
 }
 
 header h1 {
-  color:#632A0D;
+  color: #632a0d;
   font-weight: bold;
- 
+
   font-size: 50px;
 }
