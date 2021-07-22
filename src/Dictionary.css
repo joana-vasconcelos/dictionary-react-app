@@ -20,7 +20,7 @@
   padding: 4px;
   border: 1px solid #ddd;
   border-radius: 3px;
-  width: 500px;
+  width: 70%;
   margin-right: 10px;
   display: inline-block;
   
@@ -50,7 +50,7 @@
 }
 
 
-form {
+.Dictionary form {
   text-align: center;
   width: 100%;
   
