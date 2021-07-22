@@ -2,6 +2,12 @@
   margin: 0 auto;
   text-align: center;
   padding-top: 25px;
+  background: rgba(154, 123, 79, 0.8);
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.7);
+  max-width: 800px;
+  display: block;
 }
 
 .App-footer {
@@ -12,4 +18,30 @@
   margin: 0px auto;
   padding-bottom: 25px;
   color: rgb(236, 222, 195);
+  
+}
+
+header .quote {
+  font-size: 18px;
+  font-weight: 600;
+ 
+  margin: 20px 0 5px;
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+header .quote-author {
+  font-style: italic;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: right;
+  margin:0;
+  font-family: 'Nothing You Could Do', cursive;
+  
+}
+
+header h1 {
+  color:#632A0D;
+  font-weight: bold;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 50px;
 }

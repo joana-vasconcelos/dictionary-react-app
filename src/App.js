@@ -16,13 +16,13 @@ function App() {
       <div className="App">
         <div className="container">
           <header className="App-header">
-            <h1> Dictionary</h1>
+            <h1>Dictionary</h1>
             <p className="quote">
               "Words — so innocent and powerless as they are, as standing in a
               dictionary, how potent for good and evil they become, in the hands
               of one who knows how to combine them!"
             </p>
-            <p className="quote-author">  Nathaniel Hawthorne</p>
+            <p className="quote-author"> - Nathaniel Hawthorne</p>
           </header>
           <Dictionary defaultKeyword="dictionary" />
           <footer className="App-footer">

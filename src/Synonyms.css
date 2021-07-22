@@ -9,11 +9,12 @@
 }
 .Synonyms li {
   display: inline-block;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1;
   font-weight: 500;
   border: 1px solid rgba(99, 42, 13, 0.2);
   margin-right: 15px;
+  margin-bottom:15px;
   padding: 3px;
   border-radius: 3px;
   color: #2c1503;
