@@ -9,10 +9,9 @@
 }
 
 .Dictionary h2 {
-    font-size: 20px;
-    font-weight: bold;
-     color:#2c1503;
-
+  font-size: 20px;
+  font-weight: bold;
+  color: #2c1503;
 }
 
 .Dictionary .search {
@@ -22,11 +21,10 @@
   width: 500px;
   margin-right: 10px;
   display: inline-block;
-  
 }
 
 .Dictionary .submit {
-    padding: 3px;
+  padding: 3px;
   border: 1px solid #ddd;
   border-radius: 3px;
   width: 80px;
@@ -37,18 +35,15 @@
   font-weight: 600;
   cursor: pointer;
   transition: all 10ms ease-in;
-  
 }
 
 .Dictionary .submit:hover {
-   color: #2c1503;
-  background: #9a7b4f; 
+  color: #2c1503;
+  background: #9a7b4f;
   border: 2px solid #2c1503;
 }
-
 
 form {
   text-align: center;
   width: 100%;
-  
 }
