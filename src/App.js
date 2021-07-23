@@ -11,6 +11,7 @@ function App() {
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",
+        backgroundAttachment: "fixed",
       }}
     >
       <div className="App">
